@@ -86,17 +86,17 @@ export function About() {
 
   const roadmap = [
     {
-      phase: 'Phase 1 (2025)',
+      phase: 'Phase 1 (2025-26)',
       title: 'Foundation & MVP',
       items: ['Launch core platform', 'Partner with 100 universities', 'Onboard 10,000 students']
     },
     {
-      phase: 'Phase 2 (2025-2026)',
+      phase: 'Phase 2 (2026-27)',
       title: 'Scale & Expand',
       items: ['International expansion', 'VR/AR integration', 'Corporate wellness add-on']
     },
     {
-      phase: 'Phase 3 (2026+)',
+      phase: 'Phase 3 (2027+)',
       title: 'Market Leadership',
       items: ['Global partnerships', 'Policy integration', 'IPO preparation']
     }
