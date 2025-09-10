@@ -37,7 +37,7 @@ export function About() {
   const businessModel = [
     {
       title: 'Freemium SaaS Model',
-      price: '₹0 - ₹200/student/year',
+      price: '₹500/semester',
       description: 'Basic features free, premium wellness content and advanced AI features available through subscription',
       icon: DollarSign,
       color: 'from-green-500 to-emerald-500'
