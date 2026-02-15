@@ -37,7 +37,7 @@ export function About() {
   const businessModel = [
     {
       title: 'Freemium SaaS Model',
-      price: '₹0 - ₹200/student/year',
+      price: '₹500/semester',
       description: 'Basic features free, premium wellness content and advanced AI features available through subscription',
       icon: DollarSign,
       color: 'from-green-500 to-emerald-500'
@@ -86,17 +86,17 @@ export function About() {
 
   const roadmap = [
     {
-      phase: 'Phase 1 (2025)',
+      phase: 'Phase 1 (2025-26)',
       title: 'Foundation & MVP',
       items: ['Launch core platform', 'Partner with 100 universities', 'Onboard 10,000 students']
     },
     {
-      phase: 'Phase 2 (2025-2026)',
+      phase: 'Phase 2 (2026-2027)',
       title: 'Scale & Expand',
       items: ['International expansion', 'VR/AR integration', 'Corporate wellness add-on']
     },
     {
-      phase: 'Phase 3 (2026+)',
+      phase: 'Phase 3 (2027+)',
       title: 'Market Leadership',
       items: ['Global partnerships', 'Policy integration', 'IPO preparation']
     }
